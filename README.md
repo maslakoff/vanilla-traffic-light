@@ -13,3 +13,7 @@ A JS training exercise (Scheduling)
 Create a traffic light which switch his state every n seconds.
 
 Traffic light has control buttons that allow us to switch his state immediately. After n seconds we should see another state.
+
+## Solution
+
+Solution could be found in a `solution` branch.
