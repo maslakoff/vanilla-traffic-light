@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-traffic-light",
+  "version": "1.0.0",
+  "description": "JS training exercise (Scheduling)",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslakoff/vanilla-traffic-light.git"
+  },
+  "keywords": [
+    "js",
+    "scheduling"
+  ],
+  "author": "Ihar Maslakou <igormaslakoff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maslakoff/vanilla-traffic-light/issues"
+  },
+  "homepage": "https://github.com/maslakoff/vanilla-traffic-light#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
